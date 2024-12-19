@@ -51,8 +51,7 @@ data = Number(data)
 // console.log(+"");           // 0
 
 // increment operator
-
-// let count = 10
-// ++count
-// count++
+let count = 10
+++count
+count++
 // console.log(count);         //12
